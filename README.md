@@ -6,22 +6,6 @@
 
 Coleção de scripts para manipulação de arquivos FASTA e sequências biológicas desenvolvida pelo **Laboratório de Genômica e Ecologia Viral (LAGEV)** da Universidade Federal do Espírito Santo (UFES).
 
-## 📋 Índice
-
-- [Sobre](#sobre)
-- [Scripts Disponíveis](#scripts-disponíveis)
-- [Pré-requisitos](#pré-requisitos)
-- [Instalação](#instalação)
-- [Como Usar](#como-usar)
-  - [rename_fasta.sh](#rename_fastash)
-  - [Exemplo Completo com GISAID](#exemplo-completo-com-gisaid)
-- [Estrutura do Repositório](#estrutura-do-repositório)
-- [Contribuição](#contribuição)
-- [Autores](#autores)
-- [Licença](#licença)
-- [Citação](#citação)
-- [Contato](#contato)
-
 ## 🧬 Sobre
 
 O **LAGEV FASTA Tools** é um conjunto de scripts em Bash desenvolvidos para facilitar a manipulação de arquivos FASTA, amplamente utilizados em bioinformática para armazenar sequências de nucleotídeos ou aminoácidos. As ferramentas foram criadas para atender às necessidades do Laboratório de Genômica e Ecologia Viral (LAGEV) da UFES, mas são disponibilizadas para a comunidade científica em geral.
