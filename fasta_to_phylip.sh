@@ -1,6 +1,6 @@
 #!/bin/bash
 # =============================================================================
-# Script: fasta_to_phylip_relaxed.sh
+# Script: fasta_to_phylip.sh
 # Descrição: Converte FASTA (alinhado) para PHYLIP RELAXED (nomes longos)
 #
 # Autor: Edson Delatorre
