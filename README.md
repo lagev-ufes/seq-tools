@@ -17,8 +17,8 @@ O **LAGEV FASTA Tools** é um conjunto de scripts em Bash desenvolvidos para fac
 | `rename_fasta.sh` | Renomeia cabeçalhos de sequências FASTA usando busca por substring | 1.0 |
 | `fasta_to_phylip.sh` | Converte sequências no formato FASTA para PHYLIP extendido para uso no PhyML | 1.0 |
 | `n_stats_seqkit.sh` | Calcula estatísticas de Ns (bases indefinidas), incluindo contagem, proporção e razão N/(não-N), utilizando seqkit | 1.0 |
+| `remove_sequences.sh` | Remove sequências do FASTA baseado em uma lista de IDs | 1.0 |
 | `extract_sequences.sh` | Extrai sequências específicas baseado em lista de IDs | *em breve* |
 | `filter_fasta.sh` | Filtra sequências por comprimento, qualidade ou outros critérios | *em breve* |
-| `stats_fasta.sh` | Gera estatísticas descritivas do arquivo FASTA (número de sequências, comprimentos, etc.) | *em breve* |
 | `split_fasta.sh` | Divide arquivos FASTA grandes em múltiplos arquivos menores | *em breve* |
 | `validate_fasta.sh` | Valida a integridade do formato FASTA | *em breve* |
